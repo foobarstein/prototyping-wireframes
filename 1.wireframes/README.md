@@ -1,6 +1,10 @@
 # Wireframes
 
-The wireframes in this folder show an extremely generic web site or app, to keep things simple. There are 6 templates from which all screens of the web site or app would be created:
+The wireframes in this folder show an extremely generic web site or app, to keep things simple.
+
+The imaginary project we are working on is a site where visitors can determine whether they are eligible for a COVID-19 vaccine, and see a list of vaccination locations.
+
+There are 6 templates from which all screens of the web site or app would be created:
 
 - [home screen](#home-template) template
 - a template for a sub-section that contains [brochureware](#brochureware-template)
@@ -8,6 +12,11 @@ The wireframes in this folder show an extremely generic web site or app, to keep
 - a template for a [details screen](#details-template) on a topic
 - a template for a [contact us-style screen](#contact-us-template)
 - a template for a [a confirmation message when the user submits the contact us form](#contact-us-success-template)
+
+## Site map
+
+The site map shows how we intend to use the various wireframe templates to produce actual pages.
+![Site map](./png/site-map.png)
 
 ## Home Template
 
