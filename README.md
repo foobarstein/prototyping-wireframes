@@ -2,6 +2,10 @@
 
 This repository contains some simple wireframe diagrams for a generic web site/app. These wireframes are then filled with mock content (text and imagery) in order to make them look more "real", so they can be placed into a clickable prototype.
 
+A video walkthrough of [this example is available on YouTube](https://youtu.be/fNhLpwL1Iag).
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fNhLpwL1Iag" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ## Wireframes
 
 The aim of the wireframe diagrams is to show just enough information for a stakeholder or developer to understand the details of what is on each screen (also known as a page or view). In particular:
