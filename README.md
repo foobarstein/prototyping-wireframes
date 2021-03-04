@@ -28,6 +28,6 @@ The aim of the clickable prototype is to allow stakeholders and developers to ex
 
 Depending on the needs of the team, the prototype might be constructed from wireframe diagrams (as done here) or from high-quality design comps.
 
-Ultimately, the prototype should show just enough to allow all stakeholders to discuss and hopefully come to agreement about what is the correct content and functionality for the project at hand.
+Ultimately, the prototype should show just enough to allow all stakeholders to discuss and hopefully come to agreement about what is the correct content and functionality for the project at hand before spending the intense time and money resources necessary to develop it further.
 
 View the [prototype](./3.prototype).
