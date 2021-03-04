@@ -18,7 +18,7 @@ View the [wireframe diagram examples](./1.wireframes).
 
 ## Mock content
 
-Wireframes are, by nature, abstract and easily understood by all stakeholders. For this reason, it is sometimes useful to reduce the abstraction of wireframes by filling them in with mock copy and imagery. In cases where multiple screens will follow the template or pattern set out in a single wireframe diagram, the wireframe is converted into multiple mocked-up screens.
+Wireframes are, by nature, abstract and not easily understood by all stakeholders - this may be an understatement. For this reason, it is sometimes useful to reduce the abstraction of wireframes by filling them in with mock copy and imagery. In cases where multiple screens will follow the template or pattern set out in a single wireframe diagram, the wireframe is converted into multiple mocked-up screens.
 
 View the [wireframe diagrams with mock content](./2.mockups).
 
