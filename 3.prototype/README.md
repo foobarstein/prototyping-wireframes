@@ -4,6 +4,6 @@ Taking the [mockups](../2.mockups/) made from [wireframes](../1.wireframes) and 
 
 In addition to hosting prototypes on their own servers, InvisionApp can export prototypes as stand-alone web pages for offline use.
 
-View [the prototype generated from the wireframes and mockups in this COVID-19 Vaccination Locator project](./prototype.html) (you will need to download this file and load it into a web browser locally on your own computer).
+- View [the stand-alone prototype generated from the wireframes and mockups in this COVID-19 Vaccination Locator project](./prototype.html) (you will need to download this file and load it into a web browser locally on your own computer).
 
-- A hosted version is available [here](https://professorfoobarstein888866.invisionapp.com/console/share/XR2ACBA83T).
+- View the hosted version [here](https://professorfoobarstein888866.invisionapp.com/console/share/XR2ACBA83T).
